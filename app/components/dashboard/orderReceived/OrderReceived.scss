@@ -1,0 +1,39 @@
+.orderReceived {
+    flex: 4;
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    padding: 10px;
+    color: gray;
+    margin-top: 10px;
+  
+    .title {
+      font-size: 20px;
+      font-weight: 700;
+      color: #000;
+    //   margin-bottom: 20px;
+    }
+
+    .productTitle {
+        font-size: 16px;
+        font-weight: 700;
+        color: #000;
+        text-align: center;
+    }
+
+    .productAdded {
+        font-size: 12px;
+        font-weight: 600;
+        color: #000;
+    }
+
+    .orderSlider {
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space:nowrap;
+    }
+  
+    .chartGrid {
+      stroke: rgb(228, 225, 225);
+    }
+  }
+  

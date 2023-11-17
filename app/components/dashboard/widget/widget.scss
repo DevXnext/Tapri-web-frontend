@@ -1,0 +1,21 @@
+.widget {
+  flex: 1;
+  padding: 16px 16px 6px 16px;
+  -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 6px;
+
+  .title {
+    font-weight: 500;
+    font-size: 14px;
+    color: #000;
+    margin-left: 8px;
+  }
+
+  .counter {
+    font-size: 22px;
+    font-weight: 700;
+    color: #000;
+    margin-top: 8px;
+  }
+}
