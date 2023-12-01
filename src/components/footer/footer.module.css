@@ -1,0 +1,13 @@
+.bg_image{
+    background-image: url("/images/fast-food.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg_image_food{
+    background-image: url("/images/image.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
