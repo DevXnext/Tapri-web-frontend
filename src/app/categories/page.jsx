@@ -4,7 +4,7 @@ import React from "react";
 const Categories = () => {
   return (
     <>
-      <div className="flex flex-col space-y-3 my-3">
+      <div className="flex flex-col space-y-3 text-white my-3">
         <div className="flex flex-row justify-between">
           <div className="">
             <h2 className="text-3xl font-semibold ">Popular Categories</h2>
@@ -55,8 +55,8 @@ const Categories = () => {
         </div>
         <div className="grid md:grid-cols-6 grid-cols-2 gap-6  py-5">
 
-          <div className="flex flex-col space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
-          hover:shadow-gray-400 shadow-gray-300">
+          <div className="flex flex-col space-y-5 border-[1px] shadow-xl p-6 justify-center rounded-[30px] 
+          hover:shadow-gray-800 shadow-gray-900">
             <div className="">
               <Image
                 src="/images/indo-chinese.jpg"
@@ -66,11 +66,11 @@ const Categories = () => {
               />
             </div>
             <div className="flex flex-col items-center"><h1 className="text-[20px]">Indo Chinese</h1>
-            <span className="text-gray-500 text-base">(86 Dishes)</span></div>
+            <span className="text-gray-200 text-base">(86 Dishes)</span></div>
           </div>
 
-          <div className="flex flex-col space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
-          hover:shadow-gray-400 shadow-gray-300">
+          <div className="flex flex-col space-y-5 border-[1px] shadow-xl p-6 justify-center rounded-[30px] 
+          hover:shadow-gray-800 shadow-gray-900">
             <div className="">
               <Image
                 src="/images/tapri-special.jpg"
@@ -82,8 +82,8 @@ const Categories = () => {
             <div className="flex flex-col items-center"><h1 className="text-[20px]">Tapri Special</h1>
             <span className="text-gray-500 text-base">(50 Dishes)</span></div>
           </div>
-          <div className="flex flex-col space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
-          hover:shadow-gray-400 shadow-gray-300">
+          <div className="flex flex-col border-[1px] space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
+          hover:shadow-gray-800 shadow-gray-900">
             <div className="">
               <Image
                 src="/images/quick-bites.jpg"
@@ -95,8 +95,8 @@ const Categories = () => {
             <div className="flex flex-col items-center"><h1 className="text-[20px]">Quick Bites</h1>
             <span className="text-gray-500 text-base">(100 Dishes)</span></div>
           </div>
-          <div className="flex flex-col space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
-          hover:shadow-gray-400 shadow-gray-300">
+          <div className="flex flex-col border-[1px] space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
+          hover:shadow-gray-800 shadow-gray-900">
             <div className="">
               <Image
                 src="/images/side-sauce.jpg"
@@ -108,8 +108,8 @@ const Categories = () => {
             <div className="flex flex-col items-center"><h1 className="text-[20px]">Side Sauce</h1>
             <span className="text-gray-500 text-base">(25 Dishes)</span></div>
           </div>
-          <div className="flex flex-col space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
-          hover:shadow-gray-400 shadow-gray-300">
+          <div className="flex flex-col border-[1px] space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
+          hover:shadow-gray-800 shadow-gray-900">
             <div className="">
               <Image
                 src="/images/deserts.jpg"
@@ -121,8 +121,8 @@ const Categories = () => {
             <div className="flex flex-col items-center"><h1 className="text-[20px]">Desserts</h1>
             <span className="text-gray-500 text-base">(50 Dishes)</span></div>
           </div>
-          <div className="flex flex-col space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
-          hover:shadow-gray-400 shadow-gray-300">
+          <div className="flex flex-col border-[1px] space-y-5 shadow-xl p-6 justify-center rounded-[30px] 
+          hover:shadow-gray-800 shadow-gray-900">
             <div className="">
               <Image
                 src="/images/drinks.png"

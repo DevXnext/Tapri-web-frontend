@@ -7,8 +7,8 @@ const Footer = () => {
         <div className={`mt-5 ${Style.bg_image_food} flex flex-col  justify-center md:px-32 px-2  h-[450px]`}>
           <div className="">
             <p className="  leading-[60px] text-white text-5xl">Are you ready to order with the <br />best deals?</p>
-            <button className="bg-red-500 px-6 py-2 text-white rounded-full my-6 font-medium text-[20px] hover:bg-transparent 
-            hover:border-2 hover-border-ref-500 border-2 border-red-500 hover:broder-white ">Proceed to Order</button>
+            <button className="bg-red-700 px-6 py-2 text-white rounded-full my-6 font-medium text-[20px] hover:bg-transparent 
+            hover:border-2 hover-border-ref-500 border-2 border-red-700 hover:broder-white ">Proceed to Order</button>
             </div>
         </div>
       <div className=" py-20 px-10  bg-black text-white">

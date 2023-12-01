@@ -45,12 +45,12 @@ const BestSellers = () => {
   };
   return (
     <>
-      <div className=" xl:w-[1280px] mx-auto    flex flex-col space-y-5 items-center py-10">
+      <div className=" xl:w-[1280px] mx-auto    flex flex-col space-y-10 items-center py-10">
         <h2 className="text-3xl font-semibold text-white ">Best Sellers</h2>
         {/* <div className="flex flex-row space-x-10 items-center"> 
         <div
-              className="bg-red-500 rounded-full p-2 text-white border-2 hover:bg-white 
-          hover:border-2 hover:border-red-500 hover:text-red-500 "
+              className="bg-red-700 rounded-full p-2 text-white border-2 hover:bg-white 
+          hover:border-2 hover:border-red-700 hover:text-red-700 "
             > 
                 <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -131,8 +131,8 @@ const BestSellers = () => {
           
         </div>
         <div
-              className="bg-red-500 rounded-full p-2 text-white border-2 hover:bg-white 
-          hover:border-2 hover:border-red-500 hover:text-red-500"
+              className="bg-red-700 rounded-full p-2 text-white border-2 hover:bg-white 
+          hover:border-2 hover:border-red-700 hover:text-red-700"
             >
               <svg
                 xmlns="http://www.w3.org/2000/svg"
@@ -152,8 +152,8 @@ const BestSellers = () => {
         </div> */}
         <div className="flex md:flex-row flex-col md:space-y-0 space-y-10 md:space-x-10 items-center ">
           <div
-            className="bg-red-500 rounded-full p-2 text-white border-2 hover:bg-white 
-          hover:border-2 hover:border-red-500 hover:text-red-500"
+            className="bg-red-700 rounded-full p-2 text-white border-2 hover:bg-white 
+          hover:border-2 hover:border-red-700 hover:text-red-700"
             onClick={handlePrev}
           >
             <svg
@@ -175,7 +175,7 @@ const BestSellers = () => {
             {currentIndex.map((index) => (
               <div
                 key={index}
-                className={`flex flex-row space-x-5 bg-white p-5 rounded-md `}
+                className={`flex flex-row space-x-5 text-white border-[1px] border-white p-5 rounded-md `}
               >
                 <div>
                   <Image
@@ -208,8 +208,8 @@ const BestSellers = () => {
             ))}
           
           <div
-            className="bg-red-500 rounded-full p-2 text-white border-2 hover:bg-white 
-          hover:border-2 hover:border-red-500 hover:text-red-500"
+            className="bg-red-700 rounded-full p-2 text-white border-2 hover:bg-white 
+          hover:border-2 hover:border-red-700 hover:text-red-700"
             onClick={handleNext}
           >
             <svg

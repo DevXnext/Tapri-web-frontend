@@ -26,8 +26,8 @@ const HomeMenu = () => {
           <h2 className="font-semibold text-2xl ">Chilli Chicken</h2>
           <p className="font-normal text-base text-gray-300">Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option</p>
              <div className="flex flex-row justify-between items-center pb-2">
-              <p className="text-[20px] text-red-500 font-semibold">$ 16.98</p>
-              <button className="bg-red-500 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
+              <p className="text-[20px] text-red-700 font-semibold">$ 16.98</p>
+              <button className="bg-red-700 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
              </div>
              </div>
           </Link>
@@ -46,8 +46,8 @@ const HomeMenu = () => {
           <h2 className="font-semibold text-2xl ">Bhel Puri</h2>
           <p className="font-normal text-base text-gray-300">Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option</p>
              <div className="flex flex-row justify-between items-center pb-2">
-              <p className="text-[20px] text-red-500 font-semibold">$ 10.98</p>
-              <button className="bg-red-500 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
+              <p className="text-[20px] text-red-700 font-semibold">$ 10.98</p>
+              <button className="bg-red-700 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
              </div>
              </div>
           </Link>
@@ -66,8 +66,8 @@ const HomeMenu = () => {
           <h2 className="font-semibold text-2xl ">Chilli Chicken</h2>
           <p className="font-normal text-base text-gray-300">Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option</p>
              <div className="flex flex-row justify-between items-center pb-2">
-              <p className="text-[20px] text-red-500 font-semibold">$ 16.98</p>
-              <button className="bg-red-500 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
+              <p className="text-[20px] text-red-700 font-semibold">$ 16.98</p>
+              <button className="bg-red-700 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
              </div>
              </div>
           </Link>
@@ -86,8 +86,8 @@ const HomeMenu = () => {
           <h2 className="font-semibold text-2xl ">Chilli Chicken</h2>
           <p className="font-normal text-base text-gray-300">Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option</p>
              <div className="flex flex-row justify-between items-center pb-2">
-              <p className="text-[20px] text-red-500 font-semibold">$ 16.98</p>
-              <button className="bg-red-500 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
+              <p className="text-[20px] text-red-700 font-semibold">$ 16.98</p>
+              <button className="bg-red-700 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
              </div>
              </div>
           </Link>
@@ -106,8 +106,8 @@ const HomeMenu = () => {
           <h2 className="font-semibold text-2xl ">Chilli Chicken</h2>
           <p className="font-normal text-base text-gray-300">Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option</p>
              <div className="flex flex-row justify-between items-center pb-2">
-              <p className="text-[20px] text-red-500 font-semibold">$ 16.98</p>
-              <button className="bg-red-500 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
+              <p className="text-[20px] text-red-700 font-semibold">$ 16.98</p>
+              <button className="bg-red-700 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
              </div>
              </div>
           </div>
@@ -126,8 +126,8 @@ const HomeMenu = () => {
           <h2 className="font-semibold text-2xl ">Bhel Puri</h2>
           <p className="font-normal text-base text-gray-300">Chicken is rich in proteins and adding capsicum and onions to it only adds up the nutritional value, making it a healthy lunch option</p>
              <div className="flex flex-row justify-between items-center pb-2">
-              <p className="text-[20px] text-red-500 font-semibold">$ 10.98</p>
-              <button className="bg-red-500 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
+              <p className="text-[20px] text-red-700 font-semibold">$ 10.98</p>
+              <button className="bg-red-700 px-5 py-2 rounded-full hover:bg-red-800">Order Now</button>
              </div>
              </div>
           </div>

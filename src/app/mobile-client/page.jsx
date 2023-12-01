@@ -5,7 +5,7 @@ const ClientAndMobile = () => {
   return (
     <>
       <div className="flex flex-col space-y-6">
-        <div className="flex md:flex-row flex-col  md:space-y-0 space-y-8 space-x-5 justify-center ">
+        <div className="flex md:flex-row flex-col text-white md:space-y-0 space-y-8 space-x-5 justify-center ">
           <div className="basis-[50%]">
             <Image
               src="/images/client.png"
@@ -29,7 +29,7 @@ const ClientAndMobile = () => {
             </div>
           </div>
         </div>
-        <div className="flex md:flex-row flex-col  md:space-y-0 space-y-8 space-x-5 justify-center ">
+        <div className="flex md:flex-row flex-col text-white md:space-y-0 space-y-8 space-x-5 justify-center ">
        
           <div className="flex flex-col space-y-8 justify-center md:pl-1 pl-6 basis-[50%]">
             <h2 className="font-semibold text-5xl leading-[60px]">It’s Now More Easy to Order by Our Mobile App</h2>

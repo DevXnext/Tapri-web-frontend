@@ -14,7 +14,7 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={`${inter.className} ${NovaSquare.className}  scroll-smooth`}>
+      <body className={`bg-black ${inter.className} ${NovaSquare.className}  scroll-smooth`}>
         <Header />
         {children}
         <Footer />
